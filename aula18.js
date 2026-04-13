@@ -6,4 +6,5 @@ const numeroMaximo = 100;
 console.log('numeroMaximo', numeroAleatorioMaximo);
 
 const numeroAleatorioInteiro = Math.floor(numeroAleatorio * numeroMaximo) + 1;
-console.log('numeroAleatorioInteiro', numeroAleatorioInteiro);
+console.log('numeroAleatorioInteiro', numeroAleatorioInteiro); 
+console.log ("gordo")
